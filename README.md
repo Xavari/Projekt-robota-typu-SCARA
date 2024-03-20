@@ -1,0 +1,1 @@
+# Projekt-robota-typu-SCARA
